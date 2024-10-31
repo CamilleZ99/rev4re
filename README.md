@@ -16,7 +16,7 @@
 ## Usage
 Run the main script to start temporal relation extraction in the demo contract:
 ```sh
-python run.py
+python rev/run.py
 ```
 **Note:** The contract data cannot be shared publicly, but we provide a sanitized sample that allows you to start from the clause extraction step. The cleaned data is available at `retrievedFrom_sampleContract`.
 
