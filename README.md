@@ -1,6 +1,7 @@
 # rev4re
-```
-# Setup
+
+
+## Setup
 
 1. **Install dependencies:**
    ```sh
@@ -8,7 +9,7 @@
    ```
 2. **Configure environment variables** by creating a `.env` file with your API keys.
 
-# Usage
+## Usage
 Run the main script to start contract analysis:
 
 **Note:** The contract data cannot be shared publicly, but we provide a sanitized sample that allows you to start from the clause extraction step. The cleaned data is available at `retrievedFrom_sampleContract`.
@@ -16,7 +17,7 @@ Run the main script to start contract analysis:
 python main.py
 ```
 
-# Customization
+## Customization
 To **customize the language model** used for contract analysis, modify the `llm_choice` parameter in the script. Available options include:
 - `gpt4o` for GPT-4.
 - `llama70b` for Llama 70B.
@@ -26,4 +27,3 @@ To **customize the extraction and validation methods** used for contract analysi
 - `standard` for standard extraction.
 - `rev` for reverse extraction.
 - `cot` for chain-of-thought extraction.
-```
