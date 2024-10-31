@@ -1,0 +1,5 @@
+head_entity,tail_entity,output
+Employer receives Milestone Payment Application,Employer notifies Contractor about the satisfaction of the Milestone,"<E1, not mentioned, E2>"
+Employer receives Milestone Payment Application,Employer issues Milestone Completion Certificate,"<E1, not mentioned, E3>"
+Employer receives Milestone Payment Application,Employer makes Milestone Payment,"<E1, not mentioned, E4>"
+Employer issues Milestone Completion Certificate,Employer makes Milestone Payment,"<E3, not mentioned, E4>"

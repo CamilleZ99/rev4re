@@ -1,0 +1,5 @@
+head_entity,tail_entity,output,first_validation,update_answer,second_validation
+Employer receives Milestone Payment Application,Employer notifies Contractor about the satisfaction of the Milestone,"<E1, within 28 days, E2>",pass validation,"<E1, within 28 days, E2>",pass validation
+Employer receives Milestone Payment Application,Employer issues Milestone Completion Certificate,"<E1, not mentioned, E3>",pass validation,"<E1, not mentioned, E3>",pass validation
+Employer receives Milestone Payment Application,Employer makes Milestone Payment,"<E1, within 42 days, E4>",pass validation,"<E1, within 42 days, E4>",pass validation
+Employer issues Milestone Completion Certificate,Employer makes Milestone Payment,"<E3, not mentioned, E4>",pass validation,"<E3, not mentioned, E4>",pass validation

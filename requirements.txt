@@ -1,0 +1,8 @@
+pandas
+numpy
+sentence-transformers
+PyPDF2
+regex
+openai
+huggingface_hub
+python-dotenv
