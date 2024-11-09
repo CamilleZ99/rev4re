@@ -14,7 +14,7 @@
 
 
 ## Usage
-Run the main script to start temporal relation extraction in the demo contract:
+Run the run.py to start temporal relation extraction in the demo contract:
 ```sh
 python rev/run.py
 ```
